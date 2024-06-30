@@ -1,7 +1,6 @@
-﻿namespace WhenFresh.Utilities.Diagnostics.Log4Net.Facts.Diagnostics;
+﻿namespace WhenFresh.Utilities.Diagnostics;
 
 using System.Diagnostics;
-using WhenFresh.Utilities.Diagnostics.Log4Net.Diagnostics;
 using WhenFresh.Utilities.Testing.Unit;
 using Xunit;
 

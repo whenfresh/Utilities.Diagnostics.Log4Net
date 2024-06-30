@@ -1,4 +1,4 @@
-﻿namespace WhenFresh.Utilities.Diagnostics.Log4Net.Diagnostics;
+﻿namespace WhenFresh.Utilities.Diagnostics;
 
 using System.Diagnostics;
 using System.Diagnostics.CodeAnalysis;
