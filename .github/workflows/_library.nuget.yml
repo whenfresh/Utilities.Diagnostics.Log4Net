@@ -1,5 +1,4 @@
 on:
-on:
   workflow_call:
     inputs:
       config:
@@ -7,6 +6,7 @@ on:
         required: false
         type: string
         default: Release
+
 
 jobs:
   build-deploy:
